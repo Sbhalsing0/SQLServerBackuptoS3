@@ -5,7 +5,7 @@
 
 # change these variables to what you need
 MYSQLROOT=root
-MYSQLPASS=pro01234
+MYSQLPASS=test
 S3BUCKET=sanketbhalsing
 FILENAME=sqlbackup
 DATABASE='--all-databases'
